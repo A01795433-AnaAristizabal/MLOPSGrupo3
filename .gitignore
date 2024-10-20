@@ -99,6 +99,7 @@ bin/
 /data/interim
 /data/processed
 /data/raw
+/mlops/modeling/mlartifacts
 
 # exclude external models from source control
 /src/external/
